@@ -3,7 +3,7 @@ layout: cv
 title: Alice Pao's Resume
 ---
 # Alice Pao
-Data Science student at Brigham Young University-Idaho
+Data science student at Brigham Young University-Idaho
 
 <div id="webaddress">
 <a href="alicepao97@gmail.com">alicepao97@gmail.com</a>
