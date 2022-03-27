@@ -43,7 +43,7 @@ __Procurement Specialist Intern__, Taipei City, Taiwan
 - Shortened 15% learning time for technicians by translating 70+ pages of wheelchair lift manuals from English to Mandarin 
 - Deducted 10% import cost through negotiation with information scavenging and analysis
 - Gained 10+ leads in 2 weeks by promoting, copywriting, and operating Facebook Ads Manager for new mobility lift product
-- Resolved customers’ concerns by assessing product functionality to provide trouble-shooting and step-by-step technical support
+- Resolved customer concerns by assessing product functionality to provide trouble-shooting and step-by-step technical support
 
 
 ### Career Success Mentor
