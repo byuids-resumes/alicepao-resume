@@ -25,9 +25,6 @@ Brigham Young University-Idaho__, Rexburg, ID
 - Relevant Course: Data Science Programming
 - Member of Data Science Society 
 
-
-
-
 ## Work Experience
 
 ### Internships
