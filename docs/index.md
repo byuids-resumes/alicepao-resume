@@ -68,8 +68,3 @@ __Full-time Volunteer Representative__, Indianapolis, ID
 
 
 
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
