@@ -3,7 +3,7 @@ layout: cv
 title: Alice Pao's Resume
 ---
 # Alice Pao
-Data science student at Brigham Young University-Idaho
+Data science freshman student at Brigham Young University-Idaho
 
 <div id="webaddress">
 <a href="alicepao97@gmail.com">alicepao97@gmail.com</a>
@@ -22,68 +22,49 @@ Brigham Young University-Idaho__, Rexburg, ID
 
 - Minor: Business Analytics
 - Full academic scholarship with 4.0 GPA
-- Relevant Courses: Data Science Programming
+- Relevant Course: Data Science Programming
+- Member of Data Science Society 
 
-
-
-
-## Related Experience
+## Work Experience
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`August - September 2020`
+__Digital Marketing Intern__, Taichung City, Taiwan
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Increased 286% follower growth rate in 1 month by proofreading copywriting posts on WeChat 
+- Implemented influencer marketing strategies, identified, and collaborated with 5+ key opinion leaders through social listening tools
+- Spearheaded promotion events, collected, and analyzed data including key performance indicators, engagement, and content actual reach rate 
+- Achieved 100% customer satisfaction rate through organizing needs, communicating, and presenting marketing proposals including mobile app designs, virtual ad banners, and posters
 
-### Data Science Lead
+`January - July 2020`
+__Procurement Specialist Intern__, Taipei City, Taiwan
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Shortened 15% learning time for technicians by translating 70+ pages of wheelchair lift manuals from English to Mandarin 
+- Deducted 10% import cost through negotiation with information scavenging and analysis
+- Gained 10+ leads in 2 weeks by promoting, copywriting, and operating Facebook Ads Manager for new mobility lift product
+- Resolved customer concerns by assessing product functionality to provide trouble-shooting and step-by-step technical support
 
 
-## Service and Work History
+### Career Success Mentor
 
-`2025-2027`
-__Math Tutor__, LDSBC
+`January 2021 - Present`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-
-`2023-2025`
-__Service Missionary__, South Africa
+- Optimized 350+ students’ career preparation to receive job offers from companies including Disney by assessing resumes, cover letters, identifying interview skill weaknesses, and providing feedback
+- Improved mentors’ ability by training 7+ teammates on federal government resume, creating templates and visual presentation to support teaching effort
+- Received 98.7% appointment rating on teaching resume, cover letter writing skills with clarity and simplicity while observing, communicating, and adapting to different needs 
 
 
 
-<!-- ### Footer
+## Volunteer Experience
 
-Last updated: May 2013 -->
+`December 2017 - June 2019`
+__Full-time Volunteer Representative__, Indianapolis, ID
+- Applied communication skills to teach and improve people’s life quality with goal setting, regular evaluation, and encouragement 
+- Obtained and assessed data from 4+ volunteer groups to identify trends and create plans for training
+- Accelerated effectiveness and group accountability with training meetings for 20+ volunteers
+
+
 
 
