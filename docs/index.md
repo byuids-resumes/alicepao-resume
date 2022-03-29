@@ -60,7 +60,7 @@ __Brigham Young University-Idaho__, Rexburg, ID
 ## Volunteer Experience
 
 `December 2017 - June 2019`
-__Full-time Volunteer Representative__, Indianapolis, ID
+__Full-time Volunteer Representative__, Indianapolis, IN
 - Applied communication skills to teach and improve people’s life quality with goal setting, regular evaluation, and encouragement 
 - Obtained and assessed data from 4+ volunteer groups to identify trends and create plans for training
 - Accelerated effectiveness and group accountability with training meetings for 20+ volunteers
