@@ -9,7 +9,7 @@ Data science freshman student at Brigham Young University-Idaho
 <a href="alicepao97@gmail.com">alicepao97@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Major</a>
 | <a href="https://www.linkedin.com/in/alice-pao/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/alicepao">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
@@ -60,7 +60,7 @@ __Brigham Young University-Idaho__, Rexburg, ID
 ## Volunteer Experience
 
 `December 2017 - June 2019`
-__Full-time Volunteer Representative__, Indianapolis, ID
+__Full-time Volunteer Representative__, Indianapolis, IN
 - Applied communication skills to teach and improve people’s life quality with goal setting, regular evaluation, and encouragement 
 - Obtained and assessed data from 4+ volunteer groups to identify trends and create plans for training
 - Accelerated effectiveness and group accountability with training meetings for 20+ volunteers
