@@ -9,7 +9,7 @@ Data science freshman student at Brigham Young University-Idaho
 <a href="alicepao97@gmail.com">alicepao97@gmail.com</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Major</a>
 | <a href="https://www.linkedin.com/in/alice-pao/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://github.com/alicepao">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
